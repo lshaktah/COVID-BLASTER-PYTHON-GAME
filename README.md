@@ -6,3 +6,5 @@ To play...
 2. Extract and open folder
 3. Open main.py with a python IDE (Pycharm for example) 
 4. Execute
+
+Code was written in Python3
